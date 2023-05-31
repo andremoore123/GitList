@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitList</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_welcome">Hi User, welcome to GitList</string>
+    <string name="home_active_user">Total Active User</string>
+    <string name="home_active_org">Total Active Organization</string>
+    <string name="home_top_most_followers">Top 5 Users with The Most Follower</string>
+    <string name="label_home">Home</string>
+    <string name="label_search">Search</string>
+    <string name="label_setting">Setting</string>
+    <string name="label_followings">Followings</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_repo">Public Repos</string>
+    <string name="label_gist">Public Gists</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="nama">Andre Eka Putra Simanjuntak</string>
+    <string name="email">andremoore431@gmail.com</string>
+</resources>
